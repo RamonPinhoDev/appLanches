@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace AplicativoLanches.Services
 {
-    internal class ApiService
+    public class ApiService
     {
         private readonly HttpClient _httpClient;
         private readonly string _baseurl = "";
@@ -93,7 +93,7 @@ namespace AplicativoLanches.Services
 
         private async Task<HttpResponseMessage> PostRequest(string uri, HttpContent httpContent)
         {
-            var enderecoUrl = AppConfig.BaseUrl + uri;
+            var enderecoUrl = _baseurl + uri;
             try 
             {
                 var result = await _httpClient.PostAsync(enderecoUrl, httpContent);

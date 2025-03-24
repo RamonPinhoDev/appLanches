@@ -40,6 +40,18 @@ build_metadata.AdditionalFiles.ManifestResourceName = AplicativoLanches.MainPage
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
+[D:/Udemy/Projetos C\# O/MAUI/AplicativoLanches/AplicativoLanches/Pages/InscricaoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AplicativoLanches.Pages.InscricaoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\InscricaoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\InscricaoPage.xaml
+
+[D:/Udemy/Projetos C\# O/MAUI/AplicativoLanches/AplicativoLanches/Pages/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AplicativoLanches.Pages.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\LoginPage.xaml
+
 [D:/Udemy/Projetos C\# O/MAUI/AplicativoLanches/AplicativoLanches/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AplicativoLanches.Resources.Styles.Colors.xaml
