@@ -10,8 +10,8 @@ namespace AplicativoLanches
             _apiService = apiService;
             InitializeComponent();
 
-            //MainPage = new AppShell();
-            MainPage = new NavigationPage(new InscricaoPage(_apiService));
+            MainPage = new AppShell();
+            //MainPage = new NavigationPage(new InscricaoPage(_apiService));
         }
     }
 }

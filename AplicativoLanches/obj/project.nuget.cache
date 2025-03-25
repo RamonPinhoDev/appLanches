@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OLeda9mWOiY=",
+  "dgSpecHash": "Im42UIthjso=",
   "success": true,
-  "projectFilePath": "D:\\Udemy\\Projetos C# O\\MAUI\\AplicativoLanches\\AplicativoLanches\\AplicativoLanches.csproj",
+  "projectFilePath": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\AplicativoLanches.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ideapad 3i\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Ideapad 3i\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.0-preview.1.25080.5\\microsoft.extensions.configuration.10.0.0-preview.1.25080.5.nupkg.sha512",

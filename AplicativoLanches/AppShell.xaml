@@ -4,12 +4,25 @@
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:AplicativoLanches"
+    xmlns:pages="clr-namespace:AplicativoLanches.Pages"
     Shell.FlyoutBehavior="Disabled"
-    Title="AplicativoLanches">
+    Shell.TabBarForegroundColor="#a90409"
+    Shell.TabBarTitleColor="White"
+    Shell.TabBarUnselectedColor="White"
+    >
 
-    <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
-
+    <TabBar>
+        <Tab Title="Home" Icon="Home">
+            <ShellContent ContentTemplate="{DataTemplate pages:HomePage}"/>
+        </Tab>
+        <Tab Title="Carrinho" Icon="cart">
+            <ShellContent ContentTemplate="{DataTemplate pages:CarrinhoPage}"/>
+        </Tab>
+        <Tab Title="Favoritos" Icon="heart">
+            <ShellContent ContentTemplate="{DataTemplate pages:FavoritosPage}"/>
+        </Tab>
+        <Tab Title="Perfil" Icon="profile">
+            <ShellContent ContentTemplate="{DataTemplate pages:PerfilPage}"/>
+        </Tab>
+    </TabBar>
 </Shell>

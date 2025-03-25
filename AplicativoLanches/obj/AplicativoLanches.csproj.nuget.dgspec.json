@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Udemy\\Projetos C# O\\MAUI\\AplicativoLanches\\AplicativoLanches\\AplicativoLanches.csproj": {}
+    "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\AplicativoLanches.csproj": {}
   },
   "projects": {
-    "D:\\Udemy\\Projetos C# O\\MAUI\\AplicativoLanches\\AplicativoLanches\\AplicativoLanches.csproj": {
+    "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\AplicativoLanches.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Udemy\\Projetos C# O\\MAUI\\AplicativoLanches\\AplicativoLanches\\AplicativoLanches.csproj",
+        "projectUniqueName": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\AplicativoLanches.csproj",
         "projectName": "AplicativoLanches",
-        "projectPath": "D:\\Udemy\\Projetos C# O\\MAUI\\AplicativoLanches\\AplicativoLanches\\AplicativoLanches.csproj",
+        "projectPath": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\AplicativoLanches.csproj",
         "packagesPath": "C:\\Users\\Ideapad 3i\\.nuget\\packages\\",
-        "outputPath": "D:\\Udemy\\Projetos C# O\\MAUI\\AplicativoLanches\\AplicativoLanches\\obj\\",
+        "outputPath": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

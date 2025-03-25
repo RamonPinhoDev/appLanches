@@ -1,4 +1,6 @@
-﻿using Microsoft.Extensions.Logging;
+﻿using AplicativoLanches.Services;
+using Microsoft.Extensions.Logging;
+using AplicativoLanches.Validator;
 
 namespace AplicativoLanches
 {
@@ -15,12 +17,17 @@ namespace AplicativoLanches
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 });
 
+
 #if DEBUG
-    		builder.Logging.AddDebug();
-#endif
             builder.Services.AddHttpClient();
+            builder.Services.AddSingleton<ApiService>();
+            builder.Services.AddSingleton<IValidator, Validato>();
+            builder.Logging.AddDebug();
+#endif
 
             return builder.Build();
         }
+
+
     }
 }
