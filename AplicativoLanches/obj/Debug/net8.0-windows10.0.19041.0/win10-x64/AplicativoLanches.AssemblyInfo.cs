@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AplicativoLanches")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+8288b55984080c307e9872bce088528446adedbb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+bed28c413003d03621f1f22e59369436b7dd351b")]
 [assembly: System.Reflection.AssemblyProductAttribute("AplicativoLanches")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AplicativoLanches")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

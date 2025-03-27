@@ -1,1 +1,0 @@
-D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\AplicativoLanches.csproj;x64

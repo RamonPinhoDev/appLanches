@@ -10,262 +10,262 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.companyname.aplicativolanches</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AplicativoLanches.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AplicativoLanches.runtimeconfig.json">
       <PackagePath>AplicativoLanches.runtimeconfig.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AplicativoLanches.dll">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AplicativoLanches.dll">
       <PackagePath>AplicativoLanches.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AplicativoLanches.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\Resources\Raw\splash.svg">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\Resources\Raw\splash.svg">
       <PackagePath>splash.svg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\cart.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\cart.scale-100.png">
       <PackagePath>cart.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\confirmado.scale-100.gif">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\confirmado.scale-100.gif">
       <PackagePath>confirmado.scale-100.gif</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\delete.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\delete.scale-100.png">
       <PackagePath>delete.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\edit.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\edit.scale-100.png">
       <PackagePath>edit.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\emptycart.scale-100.jpg">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\emptycart.scale-100.jpg">
       <PackagePath>emptycart.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\faq.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\faq.scale-100.png">
       <PackagePath>faq.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\foodicon.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\foodicon.scale-100.png">
       <PackagePath>foodicon.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\heart.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\heart.scale-100.png">
       <PackagePath>heart.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\heartfill.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\heartfill.scale-100.png">
       <PackagePath>heartfill.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-100.png">
       <PackagePath>home.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\lancheicon1.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\lancheicon1.scale-100.png">
       <PackagePath>lancheicon1.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\lanchesico.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\lanchesico.scale-100.png">
       <PackagePath>lanchesico.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\lanchesimg.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\lanchesimg.scale-100.png">
       <PackagePath>lanchesimg.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\leftarrow.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\leftarrow.scale-100.png">
       <PackagePath>leftarrow.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logout.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logout.scale-100.png">
       <PackagePath>logout.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\orders.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\orders.scale-100.png">
       <PackagePath>orders.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pedidos.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\pedidos.scale-100.png">
       <PackagePath>pedidos.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\perfilconfig.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\perfilconfig.scale-100.png">
       <PackagePath>perfilconfig.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\perguntas.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\perguntas.scale-100.png">
       <PackagePath>perguntas.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\profile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\profile.scale-100.png">
       <PackagePath>profile.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\profilesettings.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\profilesettings.scale-100.png">
       <PackagePath>profilesettings.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\rightarrow.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\rightarrow.scale-100.png">
       <PackagePath>rightarrow.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\uploadphoto.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\uploadphoto.scale-100.png">
       <PackagePath>uploadphoto.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AplicativoLanches.deps.json">
+    <AppxPackagedFile Include="C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AplicativoLanches.deps.json">
       <PackagePath>AplicativoLanches.deps.json</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ideapad 3i\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.54\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
@@ -498,15 +498,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ideapad 3i\.nuget\packages\microsoft.windowsappsdk\1.5.240627000\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\XamlDiagnostics\Mobile\Microsoft.Maui.Controls.HotReload.Forms.dll">
-      <PackagePath>Microsoft.Maui.Controls.HotReload.Forms.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\XamlDiagnostics\Mobile\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll">
-      <PackagePath>Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\XamlDiagnostics\Mobile\Microsoft.VisualStudio.DesignTools.TapContract.dll">
-      <PackagePath>Microsoft.VisualStudio.DesignTools.TapContract.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ideapad 3i\.nuget\packages\microsoft.maui.controls.compatibility\8.0.83\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>

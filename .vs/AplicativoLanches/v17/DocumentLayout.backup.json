@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|c:\\users\\ideapad 3i\\documents\\aplicativolanches\\aplicativolanches\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|solutionrelative:aplicativolanches\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|c:\\users\\ideapad 3i\\documents\\aplicativolanches\\aplicativolanches\\validator\\validato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|solutionrelative:aplicativolanches\\validator\\validato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|c:\\users\\ideapad 3i\\documents\\aplicativolanches\\aplicativolanches\\validator\\ivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|solutionrelative:aplicativolanches\\validator\\ivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|c:\\users\\ideapad 3i\\documents\\aplicativolanches\\aplicativolanches\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|solutionrelative:aplicativolanches\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|c:\\users\\ideapad 3i\\documents\\aplicativolanches\\aplicativolanches\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|solutionrelative:aplicativolanches\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|c:\\users\\ideapad 3i\\documents\\aplicativolanches\\aplicativolanches\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|solutionrelative:aplicativolanches\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|c:\\users\\ideapad 3i\\documents\\aplicativolanches\\aplicativolanches\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|solutionrelative:aplicativolanches\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|c:\\users\\ideapad 3i\\documents\\aplicativolanches\\aplicativolanches\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -38,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,57 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Validato.cs",
-              "DocumentMoniker": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\Validator\\Validato.cs",
-              "RelativeDocumentMoniker": "AplicativoLanches\\Validator\\Validato.cs",
-              "ToolTip": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\Validator\\Validato.cs",
-              "RelativeToolTip": "AplicativoLanches\\Validator\\Validato.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:26:00.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\Validator\\IValidator.cs",
-              "RelativeDocumentMoniker": "AplicativoLanches\\Validator\\IValidator.cs",
-              "ToolTip": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\Validator\\IValidator.cs",
-              "RelativeToolTip": "AplicativoLanches\\Validator\\IValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:25:39.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "AplicativoLanches\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\AppShell.xaml.cs",
-              "RelativeToolTip": "AplicativoLanches\\AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:13:32.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\App.xaml.cs",
               "RelativeDocumentMoniker": "AplicativoLanches\\App.xaml.cs",
               "ToolTip": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\App.xaml.cs",
               "RelativeToolTip": "AplicativoLanches\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:11:51.967Z"
+              "WhenOpened": "2025-03-27T13:23:33.699Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\App.xaml",
               "RelativeDocumentMoniker": "AplicativoLanches\\App.xaml",
@@ -124,32 +71,21 @@
               "RelativeToolTip": "AplicativoLanches\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-25T10:11:48.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "AplicativoLanches\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\MauiProgram.cs",
-              "RelativeToolTip": "AplicativoLanches\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:11:45.391Z",
+              "WhenOpened": "2025-03-27T13:23:31.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\AppShell.xaml",
-              "RelativeDocumentMoniker": "AplicativoLanches\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\AppShell.xaml",
-              "RelativeToolTip": "AplicativoLanches\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-25T09:45:09.811Z"
+              "DocumentIndex": 1,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "AplicativoLanches\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\Services\\ApiService.cs",
+              "RelativeToolTip": "AplicativoLanches\\Services\\ApiService.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAgwFAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:15:46.47Z",
+              "EditorCaption": ""
             }
           ]
         }
