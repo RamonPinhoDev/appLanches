@@ -1,7 +1,6 @@
 ﻿using AplicativoLanches.Pages;
 using AplicativoLanches.Services;
 using AplicativoLanches.Validator;
-using Microsoft.WindowsAppSDK.Runtime.Packages;
 
 namespace AplicativoLanches
 {
@@ -30,7 +29,7 @@ namespace AplicativoLanches
                 MainPage = new NavigationPage(new LoginPage(_apiService, _validator));
             }
 
-            MainPage = new AppShell();
+            //MainPage = new AppShell();
         }
 
     }

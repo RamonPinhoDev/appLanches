@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|c:\\users\\ideapad 3i\\documents\\aplicativolanches\\aplicativolanches\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|solutionrelative:aplicativolanches\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|c:\\users\\ideapad 3i\\documents\\aplicativolanches\\aplicativolanches\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|solutionrelative:aplicativolanches\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|c:\\users\\ideapad 3i\\documents\\aplicativolanches\\aplicativolanches\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|solutionrelative:aplicativolanches\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|c:\\users\\ideapad 3i\\documents\\aplicativolanches\\aplicativolanches\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|solutionrelative:aplicativolanches\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|c:\\users\\ideapad 3i\\documents\\aplicativolanches\\aplicativolanches\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2380556E-C654-41B1-8FEE-EAA3A9B3885E}|AplicativoLanches\\AplicativoLanches.csproj|solutionrelative:aplicativolanches\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,27 +51,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\App.xaml.cs",
-              "RelativeDocumentMoniker": "AplicativoLanches\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\App.xaml.cs",
-              "RelativeToolTip": "AplicativoLanches\\App.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T13:23:33.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\App.xaml",
-              "RelativeDocumentMoniker": "AplicativoLanches\\App.xaml",
-              "ToolTip": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\App.xaml",
-              "RelativeToolTip": "AplicativoLanches\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\Pages\\HomePage.xaml",
+              "RelativeDocumentMoniker": "AplicativoLanches\\Pages\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\Pages\\HomePage.xaml",
+              "RelativeToolTip": "AplicativoLanches\\Pages\\HomePage.xaml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB0AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-27T13:23:31.951Z",
+              "WhenOpened": "2025-04-01T20:48:23.708Z",
               "EditorCaption": ""
             },
             {
@@ -82,9 +69,22 @@
               "RelativeDocumentMoniker": "AplicativoLanches\\Services\\ApiService.cs",
               "ToolTip": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\Services\\ApiService.cs",
               "RelativeToolTip": "AplicativoLanches\\Services\\ApiService.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAgwFAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAwAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T11:15:46.47Z",
+              "WhenOpened": "2025-04-01T20:44:18.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\Pages\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "AplicativoLanches\\Pages\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Ideapad 3i\\Documents\\AplicativoLanches\\AplicativoLanches\\Pages\\HomePage.xaml.cs",
+              "RelativeToolTip": "AplicativoLanches\\Pages\\HomePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:31:43.186Z",
               "EditorCaption": ""
             }
           ]
