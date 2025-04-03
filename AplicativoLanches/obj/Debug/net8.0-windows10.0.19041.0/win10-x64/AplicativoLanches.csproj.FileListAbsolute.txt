@@ -203,3 +203,15 @@ D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0
 D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\Udemy\Projetos C# O\MAUI\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\AplicativoLanches.csproj.AssemblyReference.cache
+C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\Ideapad 3i\Documents\AplicativoLanches\AplicativoLanches\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\AplicativoLanches.GeneratedMSBuildEditorConfig.editorconfig

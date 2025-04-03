@@ -60,6 +60,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = AplicativoLanches.Pages.In
 build_metadata.AdditionalFiles.TargetPath = Pages\InscricaoPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\InscricaoPage.xaml
 
+[C:/Users/Ideapad 3i/Documents/AplicativoLanches/AplicativoLanches/Pages/ListaProdutosPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AplicativoLanches.Pages.ListaProdutosPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ListaProdutosPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ListaProdutosPage.xaml
+
 [C:/Users/Ideapad 3i/Documents/AplicativoLanches/AplicativoLanches/Pages/LoginPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AplicativoLanches.Pages.LoginPage.xaml

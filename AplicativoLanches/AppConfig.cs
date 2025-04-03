@@ -8,6 +8,6 @@ namespace AplicativoLanches
 {
     public static  class AppConfig
     {
-        public static string BaseUrl { get; set; } = "";
+        public static string BaseUrl { get; set; } = "https://ntkxp91r-7292.brs.devtunnels.ms/";
     }
 }

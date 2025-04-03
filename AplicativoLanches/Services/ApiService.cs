@@ -2,6 +2,7 @@
 using AplicativoLanches.Services;
 using Microsoft.Extensions.Logging;
 using System.Net;
+using System.Net.Http.Headers;
 using System.Text;
 using System.Text.Json;
 
@@ -11,6 +12,7 @@ public class ApiService
 {
     private readonly HttpClient _httpClient;
     private readonly string _baseUrl = "https://ntkxp91r-7292.brs.devtunnels.ms/";
+
     private readonly ILogger<ApiService> _logger;
 
     JsonSerializerOptions _serializerOptions;
@@ -113,4 +115,75 @@ public class ApiService
             return new HttpResponseMessage(HttpStatusCode.BadRequest);
         }
     }
+
+
+    public async Task<(List<Categoria>?Categoria, string? ErrorMessage)> GetCategorias()
+    {
+        return await GetAsync<List<Categoria>>("api/categorias");
+    }
+
+    public async Task<(List<Produto>? Produtos, string? ErroMessage)> GetProdutos(string tipoProduto, string? categoriaid)
+    {
+        string endpoint = $"api/Produtos?tipoProduto={tipoProduto}&categoriaId={categoriaid}";
+
+        return await GetAsync<List<Produto>>(endpoint);
+
+    }
+        private async Task<(T? Data, string? ErrorMessage)> GetAsync<T>(string endpoint)
+
+    {
+        try
+        {
+            AddAuthorizationHeader();
+            var response = await _httpClient.GetAsync(AppConfig.BaseUrl + endpoint);
+            if (response.IsSuccessStatusCode)
+            {
+                var responseString = await response.Content.ReadAsStringAsync();
+                var data = JsonSerializer.Deserialize<T>(responseString, _serializerOptions);
+                return (data ?? Activator.CreateInstance<T>(), null);
+            }
+            else
+            { if (response.StatusCode == System.Net.HttpStatusCode.Unauthorized)
+                {
+                    string erroMesage = "Unauthorized";
+                    _logger.LogInformation(erroMesage);
+                    return (default, erroMesage);
+                }
+
+                string generalErroMessage = $"Erro na requisão :{response.ReasonPhrase}";
+                _logger.LogInformation(generalErroMessage);
+                return (default, generalErroMessage);
+            }
+        }
+        catch (HttpRequestException ex)
+        {
+            string errorMessage = $"Erro de requisao Http: {ex.Message}";
+            _logger.LogInformation(ex, errorMessage);
+            return (default, errorMessage);
+        }
+        catch (JsonException ex) 
+        {string errorMessage =$"Erro de serialização JSON: {ex.Message}";
+            _logger.LogInformation(ex, errorMessage); return (default, errorMessage);
+
+        }
+        catch (Exception ex)
+        { string errorMessage = $"Erro insperado: {ex.Message}";
+            _logger.LogInformation(ex, errorMessage);
+            return (default, errorMessage);
+        
+        }
+
+    }
+
+    private void AddAuthorizationHeader()
+    {
+        var token = Preferences.Get("accesstoken", string.Empty);
+        if (string.IsNullOrEmpty(token))
+        {
+            _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
+        }
+    }
+
+
+
 }

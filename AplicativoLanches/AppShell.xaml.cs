@@ -20,7 +20,7 @@ namespace AplicativoLanches
 
         private void ConfigureShell()
         {
-            var homePage = new HomePage( _validator, _apiService);
+            var homePage = new HomePage(  _apiService, _validator);
             var carrinhoPage = new CarrinhoPage();
             var favoritoPage = new FavoritosPage();
             var perfilPage = new PerfilPage();  
